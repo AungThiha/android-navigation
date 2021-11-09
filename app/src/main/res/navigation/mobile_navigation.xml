@@ -43,7 +43,7 @@
 
         <action
             android:id="@+id/next_action"
-            app:destination="@+id/flow_step_two_dest"></action>
+            app:destination="@+id/flow_step_two_dest" />
     </fragment>
 
     <fragment
